@@ -13,7 +13,7 @@
             </button>
             <div class="collapse navbar-collapse h-auto" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto menu">
-                    <li><a href="/">Home</a>
+                    <li><a href="/index.php">Home</a>
                         
                     </li>
                     <li><a href="about_us.php">About Us</a>
